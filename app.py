@@ -376,7 +376,7 @@ if spin_btn:
     st.balloons()
 
 # --------------------------------------------------
- RECOVER LAST WINNER
+# RECOVER LAST WINNER
 # --------------------------------------------------
 
 if (
