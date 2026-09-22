@@ -87,7 +87,7 @@ def github_save(filename, content_data):
         json=payload
     )
 
-    if save.status_code not in [200, 201\]:
+    if save.status_code not in [200, 201]:
         raise Exception(save.text)
 
 # --------------------------------------------------
